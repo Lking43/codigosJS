@@ -16,3 +16,5 @@ function processarCompra(carrinho) {
   }
 }
 console.log(processarCompra(carrinho));
+
+// Código atualizado hoje!

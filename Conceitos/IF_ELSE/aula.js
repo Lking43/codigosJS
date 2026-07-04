@@ -28,3 +28,5 @@ if (tipoDeCombustivel) {
 }
 
 console.log(gastoPorViagem.toFixed(2));
+
+// Código atualizado hoje!
